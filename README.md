@@ -36,4 +36,3 @@ The validated default run reports an MSE of approximately `0.021386` and writes 
 ## Context
 
 Academic Digital Signal Processing laboratory project by Yahya Al Afifi, Islamic University of Gaza.
-
